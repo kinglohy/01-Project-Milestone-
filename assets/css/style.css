@@ -49,3 +49,18 @@ a:hover {
 #copyright {
     font-size: xx-small;
 }
+
+.bio {
+    padding-top: 8rem;
+
+}
+
+#biohead {
+    text-align: right;
+    color: lightsteelblue;
+}
+
+#biotext {
+    font-size: small;
+    letter-spacing: 2px;
+}
