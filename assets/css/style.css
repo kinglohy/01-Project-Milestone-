@@ -87,3 +87,17 @@ a:hover {
     padding-top: 8rem;
     text-align: center;
 }
+
+.contact {
+    padding-top: 8rem;
+}
+
+#contacthead {
+    color: lightsteelblue;
+    text-align: right;
+}
+
+#contacttext {
+    font-size: small;
+    letter-spacing: 2px;
+}
