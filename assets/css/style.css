@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.social {
+    padding-bottom: 2rem;
+}
+
+.logo {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#menu {
+    color: lightgray;
+    outline: none;
+}
+
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    outline: none;
+}
+
+li {
+    display: inline-block;
+    margin: 1rem;
+    outline: none;
+}
+
+li:hover{
+    color: darkorange;
+}
+
+a:link, a:visited,  a:active {
+    color: lightslategray;
+    text-decoration: none;
+}
+
+a:hover {
+    color:lightsteelblue;
+}
+
+.footer {
+    padding-top: 10em;
+    text-align: center;
+    
+}
+
+#copyright {
+    font-size: xx-small;
+}
