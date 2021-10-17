@@ -64,3 +64,26 @@ a:hover {
     font-size: small;
     letter-spacing: 2px;
 }
+
+
+
+.tour{
+    padding-top: 8rem;
+}
+#tourhead {
+    color: lightsteelblue;
+    text-align: right;
+}
+
+#tourtext {
+    text-align: center;
+}
+
+#datetext {
+    color: lightsteelblue;
+}
+
+#mediahead {
+    padding-top: 8rem;
+    text-align: center;
+}
